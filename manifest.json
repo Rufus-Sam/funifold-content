@@ -111,6 +111,21 @@
      }
     },
     {
+     "id": "science-ocean",
+     "name": "Ocean Life",
+     "emoji": "🐙",
+     "version": 1,
+     "file": "packs/science-ocean-1.pack",
+     "size": 15245,
+     "sha256": "d1f50e28796417a6df88bc55eada1811890418b377dd9498e20121f94df67dc2",
+     "source": "3d23262d2543ce8688c1d792314a798b076fe42315b6e21bcd63728c1e80bda4",
+     "counts": {
+      "easy": 68,
+      "medium": 80,
+      "hard": 67
+     }
+    },
+    {
      "id": "science-space",
      "name": "Space",
      "emoji": "🪐",
