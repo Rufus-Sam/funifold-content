@@ -96,6 +96,21 @@
    "emoji": "🔭",
    "packs": [
     {
+     "id": "science-birds",
+     "name": "Birds",
+     "emoji": "🦜",
+     "version": 1,
+     "file": "packs/science-birds-1.pack",
+     "size": 15990,
+     "sha256": "91c9fa721cc7c241afe90457c135906eb2d2babf0e526faeb97ce88a20b9b765",
+     "source": "878b7a027ec7b1e5e8c0367b1733a1e44e4b0d6e24b34e187becb91370b213e8",
+     "counts": {
+      "easy": 65,
+      "medium": 82,
+      "hard": 68
+     }
+    },
+    {
      "id": "science-body",
      "name": "Human Body",
      "emoji": "🫀",
