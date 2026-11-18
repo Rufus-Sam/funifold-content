@@ -1,0 +1,57 @@
+{
+ "format": 1,
+ "categories": [
+  {
+   "id": "animals",
+   "name": "Animals",
+   "emoji": "🐘",
+   "packs": [
+    {
+     "id": "animals-domestic",
+     "name": "Domestic Animals",
+     "emoji": "🐄",
+     "version": 1,
+     "file": "packs/animals-domestic-1.pack",
+     "size": 19837,
+     "sha256": "c6bbe7cd9bc4fb369c4a78e0b51ef386d1dd49d67087e4a2821fdcbbafd506b6",
+     "source": "b65d02cdcbcb2f2ef544ac021a102104c15d9af49e426ef73f218253a0686085",
+     "counts": {
+      "easy": 109,
+      "medium": 108,
+      "hard": 87
+     }
+    },
+    {
+     "id": "animals-insects",
+     "name": "Insects & Bugs",
+     "emoji": "🐞",
+     "version": 1,
+     "file": "packs/animals-insects-1.pack",
+     "size": 19118,
+     "sha256": "dd4fbd9117e961c8dcf00166a8b786032a41864ef8edd34ec88dda2fe89bca74",
+     "source": "7bf0a395bfa58fc46cc0df4837a98372dcf768389d0f2343b76878cbdef5ae1c",
+     "counts": {
+      "easy": 110,
+      "medium": 80,
+      "hard": 89
+     }
+    },
+    {
+     "id": "animals-wild",
+     "name": "Wild Animals",
+     "emoji": "🦁",
+     "version": 1,
+     "file": "packs/animals-wild-1.pack",
+     "size": 23132,
+     "sha256": "63beebef24f1585dfe96d1e2645187728c00b9b676b3673aaac9cb0d12b936a1",
+     "source": "f9adbff6997ff7b01b759e93286b3991d1f02b9ab311cc826e032a1e5e5bc450",
+     "counts": {
+      "easy": 111,
+      "medium": 110,
+      "hard": 113
+     }
+    }
+   ]
+  }
+ ]
+}
