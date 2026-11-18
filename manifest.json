@@ -52,6 +52,117 @@
      }
     }
    ]
+  },
+  {
+   "id": "media",
+   "name": "Movies & Music",
+   "emoji": "🎬",
+   "packs": [
+    {
+     "id": "media-movies",
+     "name": "Movie Plots",
+     "emoji": "🍿",
+     "version": 1,
+     "file": "packs/media-movies-1.pack",
+     "size": 22299,
+     "sha256": "095a4f552ec2ce3f5325daf6975ea3d7c9b4c1d3a705b0a29b819eeecd374b8e",
+     "source": "049f06625b43bd171c4260de375aeb17f8ba3a5d36a40642405e69ae95e8169d",
+     "counts": {
+      "easy": 68,
+      "medium": 83,
+      "hard": 68
+     }
+    },
+    {
+     "id": "media-songs",
+     "name": "Song Meanings",
+     "emoji": "🎵",
+     "version": 1,
+     "file": "packs/media-songs-1.pack",
+     "size": 19179,
+     "sha256": "85334de4dbbd0480b3b693a6e16b25dc2dc9ac71c6d4d78c104f039ec9024e05",
+     "source": "f3dc34749e67d3fd4ce8cfa7a6f73b8b0160b6f4262082f3a198b3ff6c434ab5",
+     "counts": {
+      "easy": 65,
+      "medium": 79,
+      "hard": 69
+     }
+    }
+   ]
+  },
+  {
+   "id": "science",
+   "name": "Science & Nature",
+   "emoji": "🔭",
+   "packs": [
+    {
+     "id": "science-body",
+     "name": "Human Body",
+     "emoji": "🫀",
+     "version": 1,
+     "file": "packs/science-body-1.pack",
+     "size": 13289,
+     "sha256": "7c2f88fccf4e59c40988f763533d9f9e2840e36983cb1d6e68cfdfa145377e59",
+     "source": "cce732f86451a081f84baa2477ae04802f264abefaad836b443bd1f4bdd6252a",
+     "counts": {
+      "easy": 68,
+      "medium": 78,
+      "hard": 68
+     }
+    },
+    {
+     "id": "science-space",
+     "name": "Space",
+     "emoji": "🪐",
+     "version": 1,
+     "file": "packs/science-space-1.pack",
+     "size": 15621,
+     "sha256": "ff12e8ce7f7d3d1707b0b4e5290ab058285d2a81d087d3b12995fe54d24c91fc",
+     "source": "772acc43ae05b84db217cd4afa099fc7520d669d7fb04b5b7060b70bdf5e7a11",
+     "counts": {
+      "easy": 68,
+      "medium": 82,
+      "hard": 69
+     }
+    }
+   ]
+  },
+  {
+   "id": "words",
+   "name": "Words & Ideas",
+   "emoji": "💡",
+   "packs": [
+    {
+     "id": "words-inventions",
+     "name": "Inventions",
+     "emoji": "⚙️",
+     "version": 1,
+     "file": "packs/words-inventions-1.pack",
+     "size": 16462,
+     "sha256": "2ac1fae8af0b9c60a9cc7bfd2b01c6f662c3606e147ea96d52c50c03bc3144be",
+     "source": "0d6f11a20a563b94594e7526d3c5d7962a0153a106812d4fe29170fe2901fdc9",
+     "counts": {
+      "easy": 66,
+      "medium": 78,
+      "hard": 66
+     }
+    },
+    {
+     "id": "words-strange",
+     "name": "Strange Words",
+     "emoji": "📖",
+     "version": 1,
+     "file": "packs/words-strange-1.pack",
+     "size": 15464,
+     "sha256": "8885595f26a001ef2990c611bec12e85fe1e60ffba6f3c0008bc9a2ea23164fa",
+     "source": "c1aba046a2d62b3dbd5137b76f93e4f26c8f1cf15f10646ec1ee9301d3979e4f",
+     "counts": {
+      "easy": 65,
+      "medium": 87,
+      "hard": 64
+     }
+    }
+   ]
   }
  ]
 }
