@@ -25,15 +25,15 @@
      "id": "animals-insects",
      "name": "Insects & Bugs",
      "emoji": "🐞",
-     "version": 1,
-     "file": "packs/animals-insects-1.pack",
-     "size": 19118,
-     "sha256": "dd4fbd9117e961c8dcf00166a8b786032a41864ef8edd34ec88dda2fe89bca74",
-     "source": "7bf0a395bfa58fc46cc0df4837a98372dcf768389d0f2343b76878cbdef5ae1c",
+     "version": 2,
+     "file": "packs/animals-insects-2.pack",
+     "size": 21522,
+     "sha256": "faed9a210b4ec289b56955ccf3b9a9d5619e4fc23ff900fe1e8d40af9854945c",
+     "source": "c39bfdbbace59d2f39b6b7e82936f18e0afba1b6b27a0f23e4b03efeb3c53f06",
      "counts": {
       "easy": 110,
-      "medium": 80,
-      "hard": 89
+      "medium": 115,
+      "hard": 88
      }
     },
     {
